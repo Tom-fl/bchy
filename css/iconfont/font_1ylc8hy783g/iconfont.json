@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6395063",
+      "name": "三条线",
+      "font_class": "santiaoxian",
+      "unicode": "e506",
+      "unicode_decimal": 58630
+    }
+  ]
+}
